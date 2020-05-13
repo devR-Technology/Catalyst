@@ -11,7 +11,9 @@ Catalyst is trying to become a universal POS system in which you can browse the 
 2. How is this any different from existing POS systems?
 
 Well, to the consumer, this may seem like nothing different. However, to large retail companies, training employees to efficiently operate a POS system seems like unnecessary work. Catalyst simplifies this to the core functions: 
+
   a. Checkout, Return, Exchange, and Check Price - These are specifically geared towards retail stores.
+  
   b. Menu, Checkout, Exchange (wrong order), Promo Code - These are for fast-food outlets/restaurants. They can be customized to    needs.
   
   # More Added Later
